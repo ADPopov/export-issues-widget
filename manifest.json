@@ -1,0 +1,19 @@
+{
+  "key": "hub-project-team-widget",
+  "name": "Экспорт задач",
+  "version": "1.2.4",
+  "description": "Displays a list of users who are members of a project team in Hub.",
+  "author": "JetBrains",
+  "applicationName": "Hub",
+  "products": {
+    "Hub": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "dependencies": {
+    "Hub": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "capabilities": {
+    "topNavigation": true
+  }
+}
